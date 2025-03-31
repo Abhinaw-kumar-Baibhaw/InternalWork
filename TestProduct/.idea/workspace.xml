@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a8c7e0bd-bc5f-4804-b8eb-3c35231d6237" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../TestUser/src/main/java/com/example/TestUser/jwt/Config.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TestUser/src/main/java/com/example/TestUser/jwt/Config.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/.." value="feature/product-management" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Abhinaw-kumar-Baibhaw&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Abhinaw-kumar-Baibhaw/InternalWork.git&quot;,
+    &quot;accountId&quot;: &quot;697cb8e3-28fa-4a4c-871c-6d6cb4de2590&quot;
+  }
+}</component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2v4RzXzL9PQ8jnQhMg2VUW6UEyM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.TestApiGatewayApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestOrderPlacementApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestProductApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestProductInventoryApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestServiceRegistryApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestUserApplication.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;feature/product-management&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/abhin/OneDrive/Desktop/Test/TestProduct&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.TestApiGatewayApplication">
+    <configuration name="TestApiGatewayApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.TestApiGateway.TestApiGatewayApplication" />
+      <module name="TestApiGateway" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.TestApiGateway.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestOrderPlacementApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.TestOrderPlacement.TestOrderPlacementApplication" />
+      <module name="TestOrderPlacement" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.TestOrderPlacement.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestProductApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.TestProduct.TestProductApplication" />
+      <module name="TestProduct" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.TestProduct.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestProductInventoryApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.TestProductInventory.TestProductInventoryApplication" />
+      <module name="TestProductInventory" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.TestProductInventory.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestUserApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.TestUser.TestUserApplication" />
+      <module name="TestUser" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.TestUser.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TestProductApplication" />
+        <item itemvalue="Application.TestApiGatewayApplication" />
+        <item itemvalue="Application.TestUserApplication" />
+        <item itemvalue="Application.TestOrderPlacementApplication" />
+        <item itemvalue="Application.TestProductInventoryApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a8c7e0bd-bc5f-4804-b8eb-3c35231d6237" name="Changes" comment="" />
+      <created>1743402624852</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1743402624852</updated>
+    </task>
+    <servers />
+  </component>
+</project>

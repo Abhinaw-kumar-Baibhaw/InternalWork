@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="TestApiGateway" />
+        <module name="ApiGateway (2)" />
+        <module name="TestServiceRegistry" />
+        <module name="TestOrderPlacement" />
+        <module name="TestUser" />
+        <module name="TestProduct" />
+        <module name="TestProductInventory" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="ApiGateway" target="17" />
+      <module name="ApiGateway (2)" target="17" />
+      <module name="SocialServiceRegistry" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="ApiGateway" options="-parameters" />
+      <module name="ApiGateway (2)" options="-parameters" />
+      <module name="SocialServiceRegistry" options="-parameters" />
+      <module name="TestApiGateway" options="-parameters" />
+      <module name="TestOrderPlacement" options="-parameters" />
+      <module name="TestProduct" options="-parameters" />
+      <module name="TestProductInventory" options="-parameters" />
+      <module name="TestServiceRegistry" options="-parameters" />
+      <module name="TestUser" options="-parameters" />
+    </option>
+  </component>
+</project>

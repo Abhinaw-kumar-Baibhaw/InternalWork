@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="TestApiGateway" />
+        <module name="TestServiceRegistry" />
+        <module name="TestOrderPlacement" />
+        <module name="TestLogAnalyser" />
+        <module name="TestProductInventory" />
+        <module name="TestUser" />
+        <module name="TestProduct" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="TestApiGateway" options="-parameters" />
+      <module name="TestLogAnalyser" options="-parameters" />
+      <module name="TestOrderPlacement" options="-parameters" />
+      <module name="TestProduct" options="-parameters" />
+      <module name="TestProductInventory" options="-parameters" />
+      <module name="TestServiceRegistry" options="-parameters" />
+      <module name="TestUser" options="-parameters" />
+    </option>
+  </component>
+</project>

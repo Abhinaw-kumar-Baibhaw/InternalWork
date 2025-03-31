@@ -1,0 +1,6 @@
+com\example\TestProduct\service\ProductService.class
+com\example\TestProduct\serviceImp\ProductServiceImp.class
+com\example\TestProduct\controller\ProductController.class
+com\example\TestProduct\repo\ProductRepo.class
+com\example\TestProduct\TestProductApplication.class
+com\example\TestProduct\model\Product.class

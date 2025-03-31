@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/../TestApiGateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../TestOrderPlacement/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../TestProduct/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../TestProductInventory/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../TestServiceRegistry/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+  </component>
+</project>
